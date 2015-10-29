@@ -9,7 +9,6 @@ DerivedData/
 build/
 *.xcodeproj/project.xcworkspace/xcuserdata/**/*
 *.xcodeproj/xcuserdata/**/*
-*.xcworkspace
 
 # AppCode
 .idea/
